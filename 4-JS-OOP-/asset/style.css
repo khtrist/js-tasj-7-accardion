@@ -1,0 +1,16 @@
+.accordion__title {
+    cursor: pointer;
+  }
+  
+  .accordion__content {
+    display: none;
+  }
+
+  
+  .accordion__content.active {
+    display: block;
+  }
+  
+  .accordion{
+    background-color: brown;
+  }
